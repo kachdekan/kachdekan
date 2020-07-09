@@ -1,4 +1,4 @@
-[![Logo](Logo.png)](https://kachdekan.github.io/)
+[![Logo](https://github.com/kachdekan/kachdekan.github.io/blob/master/Logo.png)](https://kachdekan.github.io/)
 
 👋, my name is Kachi
 ====================
