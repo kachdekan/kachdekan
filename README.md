@@ -3,7 +3,7 @@
 👋, my name is Kachi
 ====================
 
-### I help companies automate their work using Robots and Smart Machines. In my spare time I noodle around with Web Development.
+### I help companies automate their work using robots and smart machines. Sometimes I have to make the robots. In my spare time I noodle around with Web Development.
 
 Currently working as a Research Engineer at **[University West](https://www.hv.se)**. I also write about my work and share knowledge at **[ramboengr.com](https://www.ramboengr.com)**.
 
